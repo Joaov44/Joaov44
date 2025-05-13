@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá, eu sou João vitor 
 
-<!--
-**Joaov44/Joaov44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia e programação. 
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Atualmente estou aprendendo .
+
+- 👯 Estou procurando colaborar em projetos open-source e na criação de projetos próprios.
+
+- 📫 Como me encontrar: [joaovitor44veras@gmail.com](mailto:joaovitor44veras@gmail.com).
+
+## Habilidades  
+
+- **Linguagens de Programação:** Java script
+
+- **Frameworks:** booststrap
+
+- **Ferramentas:** Git, Vscode 
+
+<!-- 
+## Projetos em Destaque ### 
+
+[Projeto 1] 
+--> 
+
+## Estatísticas do GitHub 
+
+![Estatísticas do GitHub]
+
+(https://github-readme-stats.vercel.app/api?username=Joaov44&show_icons=true&theme=radical) 
+
+## Entre em Contato 
+
+- [LinkedIn]()
