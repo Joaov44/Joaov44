@@ -4,11 +4,11 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## Sobre Mim
 
-- 🌱 Atualmente estou aprendendo .
+-  Atualmente estou aprendendo .
 
-- 👯 Estou procurando colaborar em projetos open-source e na criação de projetos próprios.
+-  Estou procurando colaborar em projetos open-source e na criação de projetos próprios.
 
-- 📫 Como me encontrar: [joaovitor44veras@gmail.com](mailto:joaovitor44veras@gmail.com).
+-  Como me encontrar: [joaovitor44veras@gmail.com](mailto:joaovitor44veras@gmail.com).
 
 ## Habilidades  
 
@@ -28,7 +28,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ![Estatísticas do GitHub]
 
-(https://github-readme-stats.vercel.app/api?username=Joaov44&show_icons=true&theme=radical) 
+https://github-readme-stats.vercel.app/api?username=Joaov44&show_icons=true&theme=radical
 
 ## Entre em Contato 
 
