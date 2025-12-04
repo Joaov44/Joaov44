@@ -26,9 +26,12 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## Estatísticas do GitHub 
 
-![Estatísticas do GitHub]
-
-https://github-readme-stats.vercel.app/api?username=Joaov44&show_icons=true&theme=radical
+<div>
+  <a href="https://github.com/Joaov44">
+    <img height="170em" src="https://github-readme-stats-56o7lbxa4-maurilio-carmos-projects.vercel.app/api?username=Joaov44&show_icons=true&theme=dark&locale=pt-br&border_radius=15" alt="GitHub Stats"/>
+    <img height="170em" src="https://github-readme-stats-56o7lbxa4-maurilio-carmos-projects.vercel.app/api/top-langs/?username=Joaov44&layout=compact&langs_count=8&theme=dark&locale=pt-br&border_radius=15" alt="Top Languages"/>
+  </a>
+</div>
 
 ## Entre em Contato 
 
